@@ -137,6 +137,7 @@ a:hover, a:active, a:focus {
   display: flex;
   flex-flow: row nowrap;
   justify-content: center;
+  justify-content: center;
   align-items: center;
   background: none repeat scroll 0 0 #ffffff;
 }
@@ -312,6 +313,10 @@ a:hover, a:active, a:focus {
   padding-top: 80px;
   padding-bottom: 60px;
   border-bottom: 1px solid #f0f0f0;
+}
+
+#biography p {
+  text-align: justify;
 }
 
 
